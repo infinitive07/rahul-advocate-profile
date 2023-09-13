@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rahul-advocate-profile/static/css/main.05ad2daa.css",
+    "main.js": "/rahul-advocate-profile/static/js/main.57ea5cee.js",
+    "static/js/787.fdf2ca0d.chunk.js": "/rahul-advocate-profile/static/js/787.fdf2ca0d.chunk.js",
+    "index.html": "/rahul-advocate-profile/index.html",
+    "main.05ad2daa.css.map": "/rahul-advocate-profile/static/css/main.05ad2daa.css.map",
+    "main.57ea5cee.js.map": "/rahul-advocate-profile/static/js/main.57ea5cee.js.map",
+    "787.fdf2ca0d.chunk.js.map": "/rahul-advocate-profile/static/js/787.fdf2ca0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ad2daa.css",
+    "static/js/main.57ea5cee.js"
+  ]
+}
