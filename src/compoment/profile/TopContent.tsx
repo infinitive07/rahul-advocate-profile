@@ -5,8 +5,6 @@ import {
   BreadcrumbItem,
   BreadcrumbLink,
   Container,
-  Grid,
-  GridItem,
   HStack,
   Heading,
   Image,
